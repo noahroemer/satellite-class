@@ -26,7 +26,7 @@ I implemented both **custom CNN architectures** and **transfer learning** with R
 | Model            | Accuracy | Train Time | Notes                                   |
 |------------------|----------|------------|-----------------------------------------|
 | ResNet-34 (TL)   | **98.6%** | ~45 min    | Transfer learning, fine-tuned on EuroSAT |
-| Custom CNN       | 90%       | ~10 min    | 4 convolutional layers, trained from scratch |
+| Custom CNN       | 90%       | ~10 min    | 3 convolutional layers, trained from scratch |
 
 
 ## 📑 Full Visualizations  
