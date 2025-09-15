@@ -16,8 +16,8 @@ I implemented both **custom CNN architectures** and **transfer learning** with R
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Tools:** Python, Jupyter, Git  
-- **Libraries & Frameworks:** PyTorch, torchvision, NumPy, pandas, matplotlib, seaborn  
+- **Languages & Tools:** Python, Google Colab, Git  
+- **Libraries & Frameworks:** PyTorch, torchvision, NumPy, pandas, matplotlib
 
 
 ---
