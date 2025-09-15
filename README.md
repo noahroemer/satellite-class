@@ -31,9 +31,8 @@ I implemented both **custom CNN architectures** and **transfer learning** with R
 
 ## 📑 Full Visualizations  
 
-
 All training curves, confusion matrices, and results are compiled here:  
-[📂 EuroSAT Visualizations (PDF)](visualizations/EuroSAT_visualizations.pdf)
+[📂 EuroSAT Visualizations (PDF)](visualizations.pdf)
 
 
 ---
