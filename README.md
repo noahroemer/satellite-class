@@ -30,13 +30,6 @@ I implemented both **custom CNN architectures** and **transfer learning** with R
 
 ---
 
-## 🔍 Next Steps  
-- Experiment with **data augmentation** and **regularization techniques** to improve generalization  
-- Explore lightweight CNN architectures (e.g., MobileNet, EfficientNet) for deployment  
-- Investigate model explainability methods (e.g., Grad-CAM) to interpret predictions  
-
----
-
 ## 📖 References  
 - [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification](https://arxiv.org/abs/1709.00029)  
 - [PyTorch Documentation](https://pytorch.org/)  
