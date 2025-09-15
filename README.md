@@ -28,8 +28,16 @@ I implemented both **custom CNN architectures** and **transfer learning** with R
 | ResNet-34 (TL)   | **98.6%** | ~45 min    | Transfer learning, fine-tuned on EuroSAT |
 | Custom CNN       | 90%       | ~10 min    | 4 convolutional layers, trained from scratch |
 
-- View visualizations in 
+
+## 📑 Full Visualizations  
+
+
+All training curves, confusion matrices, and results are compiled here:  
+[📂 EuroSAT Visualizations (PDF)](visualizations/EuroSAT_visualizations.pdf)
+
+
 ---
+
 
 ## 📖 References  
 - [EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification](https://arxiv.org/abs/1709.00029)  
